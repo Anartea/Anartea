@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anartea
 - 👀 I’m interested in ... Networking & Security
-- 🌱 I’m currently learning ... CCNA Fundamentals
+- 🌱 I’m currently learning ... Python, Teraform, Jenkins
 - 💞️ I’m looking to collaborate on ... impactful projects
 - 📫 How to reach me ... universalhum@protonmail.com
 
